@@ -1,0 +1,6 @@
+C:\Users\kumayarou\Desktop\LocalRepos\PrjA\PrjA\PrjA\PrjA\bin\x86\Debug\PrjA.exe
+C:\Users\kumayarou\Desktop\LocalRepos\PrjA\PrjA\PrjA\PrjA\bin\x86\Debug\PrjA.pdb
+C:\Users\kumayarou\Desktop\LocalRepos\PrjA\PrjA\PrjA\PrjA\obj\x86\Debug\PrjA.csprojResolveAssemblyReference.cache
+C:\Users\kumayarou\Desktop\LocalRepos\PrjA\PrjA\PrjA\PrjA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\kumayarou\Desktop\LocalRepos\PrjA\PrjA\PrjA\PrjA\obj\x86\Debug\PrjA.exe
+C:\Users\kumayarou\Desktop\LocalRepos\PrjA\PrjA\PrjA\PrjA\obj\x86\Debug\PrjA.pdb
